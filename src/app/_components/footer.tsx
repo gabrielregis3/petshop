@@ -58,7 +58,7 @@ export function Footer() {
 
                     <div>
                         <h3 className="text-2xl font-semibold mb-2">Social Media</h3>
-                        <div className="flex gap-4">
+                        <div className="flex gap-4 max-sm:items-center max-sm:justify-center">
                             <a href="#"><FacebookLogoIcon className="w-8 h-8"/></a>
                             <a href="#"><InstagramLogoIcon className="w-8 h-8"/></a>
                             <a href="#"><YoutubeLogoIcon className="w-8 h-8"/></a>
