@@ -1,3 +1,5 @@
+# Petshop
+
 Landing page developed for a pet shop, focusing on modern design, smooth animations, and intuitive navigation.
 The project showcases services, customer testimonials, partners, and contact options.
 
